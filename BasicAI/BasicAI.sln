@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30223.230
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BasicAI", "BasicAI\BasicAI.pyproj", "{575CD712-AF5A-49D3-AC5D-037AF5A8CD30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{575CD712-AF5A-49D3-AC5D-037AF5A8CD30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575CD712-AF5A-49D3-AC5D-037AF5A8CD30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACD3EE07-BC7E-47A5-8521-ED3DEBBF615C}
+	EndGlobalSection
+EndGlobal
