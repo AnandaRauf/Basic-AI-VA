@@ -2,7 +2,7 @@ Developed by Ananda Rauf Maududi
 Developed date :09-10 september 2020
 Basic AI versi 1.0
 
-![alttext]("Link URL Gambar")
+![alttext]("https://raw.githubusercontent.com/AnandaRauf/Basic-AI-VA/master/robot%20ai.png")
 ---------------------------------------------------------------------------------------------------------------------------
 
 Requirement :
