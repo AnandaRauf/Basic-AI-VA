@@ -2,7 +2,6 @@ import pyttsx3
 
 mesin = pyttsx3.init()
 
-
 def menu():
     print("Menu Basic AI\n")
     print
